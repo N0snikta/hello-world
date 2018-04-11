@@ -1,3 +1,3 @@
 # hello-world
 just starting
-hey there just staring my programming journey.
+hey there just starting my programming journey.
